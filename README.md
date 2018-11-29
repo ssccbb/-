@@ -10,7 +10,7 @@ star原则
 
 ## 面试题
 md里为java部分[原git](https://github.com/GcsSloop/AndroidNote)	--java部分挑着来   
-刷题网站
+刷题网站   
 [牛客网- 互联网求职神器和备考学习平台](https://www.nowcoder.com/)	--国内基础   
 [LintCode 领扣](https://www.lintcode.com/problem/)	--偏算法    
 
