@@ -6,10 +6,12 @@
 [boss直聘](https://www.zhipin.com/?sid=sem_pz_bdpc_dasou_title)   
 [你真的会写简历么？](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402970472&idx=1&sn=b9738c66fb5750c2515d57357c01a83f&scene=21#wechat_redirect)   
 star原则   
+   
 备注：pdf格式最佳   
 
 ## 面试题
 md里为java部分[原git](https://github.com/GcsSloop/AndroidNote)	--java部分挑着来   
+   
 刷题网站   
 [牛客网- 互联网求职神器和备考学习平台](https://www.nowcoder.com/)	--国内基础   
 [LintCode 领扣](https://www.lintcode.com/problem/)	--偏算法    
